@@ -1,0 +1,24 @@
+{
+  "name": "promise-modal",
+  "version": "0.0.1",
+  "description": "react promise modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liruifengv/promise-modal.git"
+  },
+  "keywords": [
+    "react",
+    "promise",
+    "modal"
+  ],
+  "author": "liruifengv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liruifengv/promise-modal/issues"
+  },
+  "homepage": "https://github.com/liruifengv/promise-modal#readme"
+}
