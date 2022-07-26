@@ -1,5 +1,5 @@
 import React from 'react'
-import { render } from 'react-dom'
+import { createRoot } from 'react-dom/client';
 import PropTypes from 'prop-types'
 
 // default Provider
@@ -26,7 +26,8 @@ const renderModal = (Template, props) => {
       <Template {...props} />
     </Container>
   )
-  render(template, dom)
+  
+  createRoot(dom).render(template)
   return dom
 }
 
