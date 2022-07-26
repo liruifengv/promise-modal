@@ -30,7 +30,7 @@ const renderModal = (Template, props) => {
   return dom
 }
 
-export default async (template, data = {}, options = {}) => {
+export const create = async (template, data = {}, options = {}) => {
   let instance = null
   // unmount
   const unmountedNode = () => {
