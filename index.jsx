@@ -9,6 +9,14 @@ Container.propTypes = {
   children: PropTypes.element.isRequired,
 }
 
+/**
+ * init promise-modal
+ * @param {element} CustomContainer
+ */
+ export const initPromiseModal = ({ CustomContainer } = {}) => {
+  Container = CustomContainer || Container
+}
+
 const renderModal = (Template, props) => {
   const dom = document.createElement('div')
   dom.setAttribute('class', 'portal-instance-container')
