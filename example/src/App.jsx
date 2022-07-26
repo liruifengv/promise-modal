@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <Button Button type="primary" onClick={showModal}>show modal</Button>
+      <Button type="primary" onClick={showModal}>show modal</Button>
     </div>
   )
 }
