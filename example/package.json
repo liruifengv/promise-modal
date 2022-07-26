@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "antd": "^4.21.7",
-    "promise-modal": "^0.1.0",
+    "promise-modal": "^1.0.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

@@ -5,7 +5,7 @@ specifiers:
   '@types/react-dom': ^18.0.6
   '@vitejs/plugin-react': ^2.0.0
   antd: ^4.21.7
-  promise-modal: ^0.1.0
+  promise-modal: ^1.0.0
   prop-types: ^15.8.1
   react: ^18.2.0
   react-dom: ^18.2.0
@@ -13,7 +13,7 @@ specifiers:
 
 dependencies:
   antd: 4.21.7_biqbaboplfbrettd7655fr4n2y
-  promise-modal: 0.1.0_v2m5e27vhdewzwhryxwfaorcca
+  promise-modal: 1.0.0_v2m5e27vhdewzwhryxwfaorcca
   prop-types: 15.8.1
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
@@ -913,8 +913,8 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /promise-modal/0.1.0_v2m5e27vhdewzwhryxwfaorcca:
-    resolution: {integrity: sha512-9xoVsaFtZX0Ob4ls0Df9NRPwS6Usntv4pvFSe/0Wp4s2DXH1x4pK3O8nQ534t2t5alPNEPCNJnvrhaapxKZzWw==}
+  /promise-modal/1.0.0_v2m5e27vhdewzwhryxwfaorcca:
+    resolution: {integrity: sha512-mL6H+fSOBDAnjJUpjMC5T2rl6rbImo7HHUZvT3Plecx7me6cW8Xti0TjzCOb1yTTIv7lX0w4LkgtJv2yktQzAQ==}
     peerDependencies:
       prop-types: ^15.8.1
       react: ^18.2.0
