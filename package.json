@@ -1,6 +1,6 @@
 {
   "name": "promise-modal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "react promise modal",
   "main": "dist/promise-modal.esm.js",
   "module": "dist/promise-modal.esm.js",
