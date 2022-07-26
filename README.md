@@ -1,7 +1,7 @@
 # promise-modal
-<img src="https://img.shields.io/npm/v/promise-modal" alt="version">
-<img src="https://img.shields.io/bundlephobia/min/promise-modal" alt="size">
-<img src="https://img.shields.io/npm/l/promise-modal" alt="license">
+![version](https://img.shields.io/npm/v/promise-modal)
+![size](https://img.shields.io/bundlephobia/min/promise-modal)
+![license](https://img.shields.io/npm/l/promise-modal)
 
 ## 介绍
 promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
