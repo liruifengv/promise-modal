@@ -4,7 +4,6 @@
 ![license](https://img.shields.io/npm/l/promise-modal)
 ![downloads](https://img.shields.io/npm/dw/promise-modal)
 
-
 ## 介绍
 promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
 
