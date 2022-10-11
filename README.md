@@ -2,7 +2,11 @@
 ![version](https://img.shields.io/npm/v/promise-modal)
 ![size](https://img.shields.io/bundlephobia/min/promise-modal)
 ![license](https://img.shields.io/npm/l/promise-modal)
+![npm total downloads](https://img.shields.io/npm/dt/promise-modal.svg)
+![npm month downloads](https://img.shields.io/npm/dm/promise-modal.svg)
 ![downloads](https://img.shields.io/npm/dw/promise-modal)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/liruifengv/promise-modal/pulls)
+
 
 ## 介绍
 promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
