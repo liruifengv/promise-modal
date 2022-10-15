@@ -78,6 +78,7 @@ import { useTestModal } from './modals/TestModal'
 
 const showTestModal = useTestModal()
 
+// use Promise.then
 showTestModal({
   title: 'Test Modal'
 })
@@ -86,6 +87,13 @@ showTestModal({
 }).catch((error) => {
   console.log('error: ', error)
 })
+
+// use await
+const res = await showTestModal({
+  title: 'Test Modal'
+})
+console.log('res: ', res)
+// do something here
 ```
 
 ### 自定义 Container
