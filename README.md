@@ -9,7 +9,9 @@
 
 
 ## 介绍
-promise-modal 是一个把 React Modal 组件创建到 body 根目录并且 Promise 函数式调用的库
+promise-modal 是一个在 React 项目中使用的 npm 包，可以把 Modal 弹窗变成 Promise 函数，命令式调用而非状态驱动，改变 Modal 弹窗开发方式，对业务开发人员更友好。
+
+来掘金，参与讨论 [开发弹窗，你使用状态驱动还是命令式？](https://juejin.cn/post/7182393187917365305)
 
 ## 安装
 ```
